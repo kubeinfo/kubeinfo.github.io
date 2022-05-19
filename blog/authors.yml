@@ -1,0 +1,5 @@
+kubeinfo:
+  name: kubeinfo
+  title: Maintainer of KubeInfo
+  url: https://github.com/kubeinfo
+  image_url: https://github.com/kubeinfo.png
