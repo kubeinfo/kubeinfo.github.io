@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kubeinfo.com/blog</id>
+    <title>KubeInfo Blog</title>
+    <updated>2022-05-19T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kubeinfo.com/blog"/>
+    <subtitle>KubeInfo Blog</subtitle>
+    <icon>https://kubeinfo.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第一篇章]]></title>
+        <id>first-blog-post</id>
+        <link href="https://kubeinfo.com/blog/first-blog-post"/>
+        <updated>2022-05-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kubeinfo.com 域名注册许久了，最近才开始倒腾，会一直积累关于云原生的各种内容。加油！]]></summary>
+        <content type="html"><![CDATA[<p>Kubeinfo.com 域名注册许久了，最近才开始倒腾，会一直积累关于云原生的各种内容。加油！</p>]]></content>
+        <author>
+            <name>kubeinfo</name>
+            <uri>https://github.com/kubeinfo</uri>
+        </author>
+        <category label="hola" term="hola"/>
+        <category label="kubeinfo" term="kubeinfo"/>
+    </entry>
+</feed>
