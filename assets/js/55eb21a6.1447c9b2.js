@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkubeinfo=self.webpackChunkkubeinfo||[]).push([[110],{6380:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/love","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

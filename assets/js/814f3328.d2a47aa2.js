@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkubeinfo=self.webpackChunkkubeinfo||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u6002 \u60a8","permalink":"/blog/love-you"},{"title":"\u7b2c\u4e00\u7bc7\u7ae0","permalink":"/blog/first-blog-post"}]}')}}]);

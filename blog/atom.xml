@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kubeinfo.com/blog</id>
     <title>KubeInfo Blog</title>
-    <updated>2022-05-19T00:00:00.000Z</updated>
+    <updated>2022-05-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kubeinfo.com/blog"/>
     <subtitle>KubeInfo Blog</subtitle>
     <icon>https://kubeinfo.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[怂 您]]></title>
+        <id>love-you</id>
+        <link href="https://kubeinfo.com/blog/love-you"/>
+        <updated>2022-05-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天是520，学到了两个词，"怂" "您"]]></summary>
+        <content type="html"><![CDATA[<p>今天是520，学到了两个词，"怂" "您"</p>]]></content>
+        <author>
+            <name>kubeinfo</name>
+            <uri>https://github.com/kubeinfo</uri>
+        </author>
+        <category label="love" term="love"/>
+        <category label="kubeinfo" term="kubeinfo"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第一篇章]]></title>
         <id>first-blog-post</id>

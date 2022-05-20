@@ -4,10 +4,20 @@
         <title>KubeInfo Blog</title>
         <link>https://kubeinfo.com/blog</link>
         <description>KubeInfo Blog</description>
-        <lastBuildDate>Thu, 19 May 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[怂 您]]></title>
+            <link>https://kubeinfo.com/blog/love-you</link>
+            <guid>love-you</guid>
+            <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天是520，学到了两个词，"怂" "您"]]></description>
+            <content:encoded><![CDATA[<p>今天是520，学到了两个词，"怂" "您"</p>]]></content:encoded>
+            <category>love</category>
+            <category>kubeinfo</category>
+        </item>
         <item>
             <title><![CDATA[第一篇章]]></title>
             <link>https://kubeinfo.com/blog/first-blog-post</link>

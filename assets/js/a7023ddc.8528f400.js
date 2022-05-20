@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkubeinfo=self.webpackChunkkubeinfo||[]).push([[713],{3457:function(e){e.exports=JSON.parse('[{"label":"hola","permalink":"/blog/tags/hola","count":1},{"label":"kubeinfo","permalink":"/blog/tags/kubeinfo","count":1}]')}}]);
