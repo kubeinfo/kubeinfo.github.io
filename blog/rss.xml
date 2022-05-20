@@ -10,12 +10,13 @@
         <language>zh-Hans</language>
         <item>
             <title><![CDATA[怂 您]]></title>
-            <link>https://kubeinfo.com/blog/love-you</link>
-            <guid>love-you</guid>
+            <link>https://kubeinfo.com/blog/love-mary</link>
+            <guid>love-mary</guid>
             <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[今天是520，学到了两个词，"怂" "您"]]></description>
             <content:encoded><![CDATA[<p>今天是520，学到了两个词，"怂" "您"</p>]]></content:encoded>
             <category>love</category>
+            <category>mary</category>
             <category>kubeinfo</category>
         </item>
         <item>

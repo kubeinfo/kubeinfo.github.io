@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkubeinfo=self.webpackChunkkubeinfo||[]).push([[541],{3263:function(a){a.exports=JSON.parse('{"label":"mary","permalink":"/blog/tags/mary","allTagsPath":"/blog/tags","count":1}')}}]);

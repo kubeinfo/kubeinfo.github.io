@@ -9,8 +9,8 @@
     <icon>https://kubeinfo.com/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[怂 您]]></title>
-        <id>love-you</id>
-        <link href="https://kubeinfo.com/blog/love-you"/>
+        <id>love-mary</id>
+        <link href="https://kubeinfo.com/blog/love-mary"/>
         <updated>2022-05-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[今天是520，学到了两个词，"怂" "您"]]></summary>
         <content type="html"><![CDATA[<p>今天是520，学到了两个词，"怂" "您"</p>]]></content>
@@ -19,6 +19,7 @@
             <uri>https://github.com/kubeinfo</uri>
         </author>
         <category label="love" term="love"/>
+        <category label="mary" term="mary"/>
         <category label="kubeinfo" term="kubeinfo"/>
     </entry>
     <entry>
